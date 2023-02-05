@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+        "id":1,
+        "email": "bedson@gmail.com",
+        "isAdmin": true,
+        "avatar":"images/avatar2.png",
+        "password":"bb12345"
+    },
+    {
+        "id":2,
+        "email": "guest@gmail.com",
+        "isAdmin": false,
+        "avatar":"images/avatar1.png",
+        "password":"1234"
+    }
+
+  ],
+
+  "items": [
+    {
+      "id": 1001,
+      "item_name": "Banana Fruit",
+      "image": "bananaJuice.jpg",
+      "price": 10000
+    },
+    {
+      "id": 1002,
+      "item_name": "Orange Juice Fruit",
+      "image": "n124orangeJuice.jpeg",
+      "price": 10000
+    }
+  ],
+
+  "orders": [
+    {
+      "id": 1,
+      "users_id":1,
+      "items_id": 1001,
+      "qty": 2
+    },
+
+    {
+      "id": 1,
+      "users_id":1,
+      "items_id": 1002,
+      "qty": 2
+    }
+
+  ]
+  
+}

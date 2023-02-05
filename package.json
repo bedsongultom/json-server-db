@@ -1,0 +1,26 @@
+{
+  "name": "json-server-db",
+  "version": "1.0.0",
+  "description": "JSON-SERVER-DB",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bedsongultom/json-server-db.git"
+  },
+  "keywords": [
+    "json-server"
+  ],
+  "author": "Bedson Gultom",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bedsongultom/json-server-db/issues"
+  },
+  "homepage": "https://github.com/bedsongultom/json-server-db#readme",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}
