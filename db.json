@@ -1,17 +1,17 @@
 {
   "users": [
     {
-        "id":1,
+        "id":"008d433c-d436-4dd3-a6ee-43cb4ccee036",
         "email": "bedson@gmail.com",
         "isAdmin": true,
-        "avatar":"images/avatar2.png",
+        "avatar":"images/avatar1.jpg",
         "password":"bb12345"
     },
     {
-        "id":2,
+        "id":"108d433c-d436-4dd3-a6ee-43cb4ccee037",
         "email": "guest@gmail.com",
         "isAdmin": false,
-        "avatar":"images/avatar1.png",
+        "avatar":"images/avatar2.jpg",
         "password":"1234"
     }
 
