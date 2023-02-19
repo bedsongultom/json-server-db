@@ -86,19 +86,19 @@
         },
         {
             "id": 1012,
-            "item_name": "Start Fruit Juice ",
+            "item_name": "Star Fruit Juice ",
             "image":"24x56starfruitJuice.jpg",
             "price":10000
         },
         {
             "id": 1013,
-            "item_name": "Pomegrade Juice ",
+            "item_name": "Pomegranate Juice ",
             "image":"x21456pomegradeJuice.jpg",
             "price":10000
         },
         {
             "id": 1014,
-            "item_name": "Wartel Juice ",
+            "item_name": "Carrot Juice ",
             "image":"x423wartelJuice.jpg",
             "price":10000
         },
